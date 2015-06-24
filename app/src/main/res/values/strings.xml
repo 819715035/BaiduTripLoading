@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaiduTripLoading</string>
+
+    <string name="common_loading_tip">正在努力加载中...</string>
+</resources>
